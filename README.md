@@ -1,8 +1,8 @@
 # ML_UniLabs_Notebooks
-##A repo all about the labs of Machine Learning Course at Ain shams University 
+## A repo all about the labs of Machine Learning Course at Ain shams University 
 
-###NoteBook 1
-####Multiple Linear Regression for Robot Calibration
+### NoteBook 1
+#### Multiple Linear Regression for Robot Calibration
 In this lab, we will illustrate the use of multiple linear regression for calibrating robot control. In addition to reviewing the concepts in multiple linear regression , you will see how to use multiple linear regression for time series data -- an important concept in dynamical systems such as robotics.
 The data is from a three link robot:
 
