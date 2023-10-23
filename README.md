@@ -3,7 +3,8 @@
 
 ## NoteBook 1
 ### Multiple Linear Regression for Robot Calibration
-In this lab, we will illustrate the use of multiple linear regression for calibrating robot control. In addition to reviewing the concepts in multiple linear regression , you will see how to use multiple linear regression for time series data -- an important concept in dynamical systems such as robotics.
+In this lab, we will illustrate the use of multiple linear regression for calibrating robot control. In addition to reviewing the concepts in multiple linear regression , you will see how to use multiple linear regression for time series data an important concept in dynamical systems such as robotics.
+
 The data is from a three link robot:
 
 ![TUDORBild](https://github.com/ElecSpartan/ML_UniLabs_Notebooks/assets/112751175/190700dd-e154-4044-84a0-ddea8784ac88)
